@@ -3,9 +3,7 @@
 ### A Drawing based On LOGO In Python. 
 
 
-***
----
-## **Author**: Iron Boy
+### **Author**: Iron Boy
 ---
 ***
 
