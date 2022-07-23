@@ -5,7 +5,6 @@
 
 ### **Author**: Iron Boy
 ---
-***
 
 ### Run "Fidget.py" to use the Fidget
 > Use "Spacebar" key to spin that sh*t.......
